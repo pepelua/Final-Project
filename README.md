@@ -3,4 +3,4 @@ Occupations VS Experiemnce VizData ( from Professional until Beginner)
 
 https://pepelua.github.io/Final-Project/.
 
-<iframe width="1168" height="584" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1kuBkgGwHez0GLXF-2SsxNTxkIJFME0kyT2BHko8A104/pubchart?oid=1753627687&amp;format=interactive"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1V8hG-21vbDm_fH8g6wINApe4CaTVLZJ5dWrlS0VvZIM/pubhtml?widget=true&amp;headers=false"></iframe>
